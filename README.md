@@ -2,7 +2,7 @@
 
 Senior DevOps Engineer / Platform Engineer with over 6 years of experience, including 4+ years in the financial services domain.
 
- **Core Skills**: Terraform, Jenkins, Docker, Kubernetes, AWS  
+ **Core Skills**: AWS, Terraform, Jenkins, Docker, Kubernetes
  **Specialties**: CI/CD automation, IaC, cloud infrastructure, monitoring  
  **Education**: BSc in Information Systems, University of Colombo School of Computing  
  **Certifications**: AWS Certified Solutions Architect – Associate
